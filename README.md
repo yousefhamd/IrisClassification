@@ -1,0 +1,1 @@
+# This is a ML model used to classify iris flowers according to the following information (sepal length, sepal width, petal length, petal width) and predicts if the flower is iris-setosa or iris-versicolor or iris-virginica
